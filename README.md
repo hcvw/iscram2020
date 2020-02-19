@@ -1,2 +1,2 @@
-# iscram2020
+# ISCRAM 2020
 Search terms for ISCRAM 2020 publication
